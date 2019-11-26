@@ -1,0 +1,25 @@
+package lab5;
+import java.util.Scanner;
+
+public class checkpoint1 
+{
+	public static void main(String[] args)
+	{
+		System.out.println(initials("Cher"));
+		System.out.println(initials("Edna del Humboldt von der Schooch"));
+	}
+	
+	public static String initials(String name)
+	{
+		Scanner in = new Scanner(name);
+		String initials = "";
+		
+		while (in.hasNext())
+		{
+			initials += in.next().charAt(0);
+		}
+		in.close();
+		
+		return initials;
+	}
+}

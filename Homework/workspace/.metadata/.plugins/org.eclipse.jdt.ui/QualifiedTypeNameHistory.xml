@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="api.ExternalValue"/>
+<fullyQualifiedTypeName name="api.Probe"/>
+<fullyQualifiedTypeName name="api.IComponent"/>
+<fullyQualifiedTypeName name="api.IStatefulComponent"/>
+<fullyQualifiedTypeName name="api.Endpoint"/>
+</qualifiedTypeNameHistroy>
